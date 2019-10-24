@@ -1,0 +1,14 @@
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\bin\Debug\netcoreapp2.1\Patiro_Assignment.deps.json
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\bin\Debug\netcoreapp2.1\Patiro_Assignment.runtimeconfig.json
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\bin\Debug\netcoreapp2.1\Patiro_Assignment.runtimeconfig.dev.json
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\bin\Debug\netcoreapp2.1\Patiro_Assignment.dll
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\bin\Debug\netcoreapp2.1\Patiro_Assignment.pdb
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\obj\Debug\netcoreapp2.1\Patiro_Assignment.csprojAssemblyReference.cache
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\obj\Debug\netcoreapp2.1\Patiro_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\obj\Debug\netcoreapp2.1\Patiro_Assignment.RazorAssemblyInfo.cache
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\obj\Debug\netcoreapp2.1\Patiro_Assignment.RazorAssemblyInfo.cs
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\obj\Debug\netcoreapp2.1\Patiro_Assignment.AssemblyInfoInputs.cache
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\obj\Debug\netcoreapp2.1\Patiro_Assignment.AssemblyInfo.cs
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\obj\Debug\netcoreapp2.1\Patiro_Assignment.RazorTargetAssemblyInfo.cache
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\obj\Debug\netcoreapp2.1\Patiro_Assignment.dll
+C:\Users\Anders\source\repos\Patiro_Assignement\Patiro_Assignment\Patiro_Assignment\obj\Debug\netcoreapp2.1\Patiro_Assignment.pdb
