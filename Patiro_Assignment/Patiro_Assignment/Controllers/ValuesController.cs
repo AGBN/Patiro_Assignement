@@ -54,7 +54,14 @@ namespace Patiro_Assignment.Controllers
                 user = Storage.Instance.GetUser(username);
                 oldC = Storage.Instance.GetClinic();
 
-                validUpdate = Clinic.ValidateUpdate(clinic, oldC, user);
+                if (user != null && oldC != null)
+                {
+                    validUpdate = Clinic.ValidateUpdate(clinic, oldC, user);
+                }
+                else
+                {
+                    validUpdate = false;
+                }
             }
             catch (Exception ex)
             {
